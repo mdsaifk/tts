@@ -32,5 +32,5 @@ batch_size = 32
 cleaners='english_cleaners'
 
 data_path = './dataset'
-checkpoint_path = '.model'
+checkpoint_path = './checkpoint'
 sample_path = './samples'
